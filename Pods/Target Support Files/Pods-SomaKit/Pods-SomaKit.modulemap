@@ -1,0 +1,6 @@
+framework module Pods_SomaKit {
+  umbrella header "Pods-SomaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
